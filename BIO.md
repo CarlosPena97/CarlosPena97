@@ -1,0 +1,3 @@
+- 👋 Hola! Soy Carlos
+- 👀 Estoy interesado en conocer nuevas tecnologías. 
+- 🌱 Abierto al trabajo en equipo
